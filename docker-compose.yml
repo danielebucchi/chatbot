@@ -1,0 +1,21 @@
+version: "3.9"
+
+services:
+  backend:
+    build: ./backend
+    container_name: datapizza-backend
+    ports:
+      - "7373:7373"
+    volumes:
+      - ./tmp:/tmp/datapizza
+    environment:
+      - APP_TMP_DIR=/tmp/datapizza
+
+  frontend:
+    build:
+      context: ./frontend
+    ports:
+      - "3000:80"
+    depends_on:
+      - backend
+    restart: always
