@@ -27,7 +27,7 @@ This document outlines planned improvements and future development directions fo
 
 ## 🧪 Technical Improvements
 
-### Backend
+### Backend-
 - [ ] Replace mock LLM with real model integration (e.g. OpenAI, HuggingFace)
 - [ ] Add persistent database for claim tracking (e.g. PostgreSQL)
 - [ ] Implement authentication and user sessions
