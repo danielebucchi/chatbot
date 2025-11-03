@@ -13,7 +13,6 @@ This document outlines planned improvements and future development directions fo
 - [ ] Send the full chat history to the backend to improve contextual analysis and generate more accurate claims
 
 ### 📎 File Handling
-- [ ] Support for more file types (e.g. HTML, Markdown, CSV)
 - [ ] Preview uploaded files in the chat interface
 - [ ] Allow drag-and-drop file upload
 
