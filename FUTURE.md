@@ -34,6 +34,6 @@ This document outlines planned improvements and future development directions fo
 
 ### Frontend
 - [ ] Improve mobile responsiveness
-- [ ] Add toast notifications for errors and confirmations
+- [ ] Add notifications for errors and confirmations
 - [ ] Introduce dark mode toggle
 - [ ] Refactor API calls with React Query or SWR
