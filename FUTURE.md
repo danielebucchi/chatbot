@@ -36,4 +36,3 @@ This document outlines planned improvements and future development directions fo
 - [ ] Improve mobile responsiveness
 - [ ] Add notifications for errors and confirmations
 - [ ] Introduce dark mode toggle
-- [ ] Refactor API calls with React Query or SWR
