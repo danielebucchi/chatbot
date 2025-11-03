@@ -8,9 +8,9 @@ This document outlines planned improvements and future development directions fo
 
 ### ✅ Claim System
 - [ ] Add support for claim categories (e.g. political, scientific, health)
-- [ ] Enable multi-user voting and consensus tracking
 - [ ] Visualize claim history and weight evolution over time
 - [ ] Add confidence scores alongside weights
+- [ ] Send the full chat history to the backend to improve contextual analysis and generate more accurate claims
 
 ### 📎 File Handling
 - [ ] Support for more file types (e.g. HTML, Markdown, CSV)
